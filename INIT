@@ -1,0 +1,4 @@
+ipnl_root_env_new64
+source /gridsoft/cmss/slc5_amd64_gcc462/external/gcc/4.6.2/etc/profile.d/init.sh
+source /gridsoft/cmss/slc5_amd64_gcc462/external/gdb/7.3.1-cms4/etc/profile.d/init.sh
+source /gridsoft/cmss/slc5_amd64_gcc462/external/python/2.7.3-cms2/etc/profile.d/init.sh
