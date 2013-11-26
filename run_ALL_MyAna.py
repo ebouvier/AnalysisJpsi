@@ -6,10 +6,10 @@
 
 import sys, os, string, shutil
 
-#outRoot ="Plots_El_0jets_chi4_mudist100_130930"
-#outRoot ="Plots_Mu_0jets_chi4_mudist100_130930"
-#outRoot ="Plots_El_4jets_top_chi4_mudist100_130930"
-outRoot ="Plots_Mu_4jets_top_chi4_mudist100_130930"
+#outRoot ="Plots_El_2jets40_3jets35_chi5_mudist105_drjet03_ctausup_131106"
+#outRoot ="Plots_Mu_2jets40_3jets35_chi5_mudist105_drjet03_ctausup_131106"
+outRoot ="Plots_El_2jets40_chi5_mudist105_drjet03_ctausup_131121"
+#outRoot ="Plots_Mu_2jets40_chi5_mudist105_drjet03_ctausup_131121"
 #outRoot = "Skim_1lepton_1jpsi_130912"
 exe = "./runMyAna"
 
